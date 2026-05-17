@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\AnimeTracker.Application\\DTOs",
+    "\\AnimeTracker.Application\\DTOs\\Anime",
+    "\\AnimeTracker.Application\\Interfaces",
+    "\\AnimeTracker.Application\\Interfaces\\Services",
+    "\\AnimeTracker.Infrastructure",
+    "\\AnimeTracker.Infrastructure\\Services",
+    "\\AnimeTracker.Web",
+    "\\AnimeTracker.Web\\Controllers",
+    "\\AnimeTracker.Web\\Views\\Anime"
+  ],
+  "SelectedNode": "\\AnimeTracker.Web\\Program.cs",
+  "PreviewInSolutionExplorer": false
+}

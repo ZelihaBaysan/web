@@ -1,0 +1,33 @@
+@model IEnumerable<AnimeTracker.Application.DTOs.Anime.AnimeDto>
+
+<div class="container mt-4">
+    <div class="d-flex justify-content-between align-items-center mb-4">
+        <h2>Tüm Animeler</h2>
+        <a asp-action="Create" class="btn btn-primary">Yeni Anime Ekle</a>
+    </div>
+
+    <div class="row">
+        @if (!Model.Any())
+        {
+            <div class="alert alert-warning">Henüz hiç anime eklenmemiş. İlk ekleyen siz olun!</div>
+        }
+        
+        @foreach (var item in Model)
+        {
+            <div class="col-md-3 mb-4">
+                <div class="card h-100 shadow-sm">
+                    <!-- Görsel yoksa hazır bir placeholder görseli gösteriyoruz -->
+                    <img src="@(string.IsNullOrEmpty(item.ImageUrl) ? "https://via.placeholder.com/300x450?text=Gorsel+Yok" : item.ImageUrl)" class="card-img-top" alt="@item.Title" style="height: 350px; object-fit: cover;">
+                    <div class="card-body">
+                        <h5 class="card-title text-truncate" title="@item.Title">@item.Title</h5>
+                        <p class="card-text text-truncate">@item.Synopsis</p>
+                    </div>
+                    <div class="card-footer d-flex justify-content-between bg-white">
+                        <span class="badge bg-secondary">Bölüm: @(item.Episodes?.ToString() ?? "?")</span>
+                        <span class="text-muted">MAL ID: @item.MalId</span>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>

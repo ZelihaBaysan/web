@@ -1,0 +1,41 @@
+@model AnimeTracker.Application.DTOs.Anime.AnimeCreateDto
+
+<div class="container mt-4">
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <div class="card shadow-sm">
+                <div class="card-header bg-primary text-white">
+                    <h4 class="mb-0">Yeni Anime Ekle</h4>
+                </div>
+                <div class="card-body">
+                    <form asp-action="Create" method="post">
+                        <div class="mb-3">
+                            <label asp-for="Title" class="form-label">Anime Adı *</label>
+                            <input asp-for="Title" class="form-control" required placeholder="Örn: Naruto" />
+                        </div>
+                        <div class="mb-3">
+                            <label asp-for="MalId" class="form-label">MyAnimeList ID</label>
+                            <input asp-for="MalId" class="form-control" type="number" placeholder="Örn: 20" />
+                        </div>
+                        <div class="mb-3">
+                            <label asp-for="Synopsis" class="form-label">Açıklama / Konu</label>
+                            <textarea asp-for="Synopsis" class="form-control" rows="4"></textarea>
+                        </div>
+                        <div class="mb-3">
+                            <label asp-for="ImageUrl" class="form-label">Görsel URL (Poster)</label>
+                            <input asp-for="ImageUrl" class="form-control" placeholder="https://..." />
+                        </div>
+                        <div class="mb-3">
+                            <label asp-for="Episodes" class="form-label">Bölüm Sayısı</label>
+                            <input asp-for="Episodes" class="form-control" type="number" />
+                        </div>
+                        <div class="d-grid gap-2">
+                            <button type="submit" class="btn btn-success">Sisteme Kaydet</button>
+                            <a asp-action="Index" class="btn btn-outline-secondary">Listeye Geri Dön</a>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

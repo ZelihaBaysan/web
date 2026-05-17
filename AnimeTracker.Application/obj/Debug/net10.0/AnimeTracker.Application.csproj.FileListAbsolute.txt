@@ -1,0 +1,15 @@
+C:\Users\zelha\Desktop\web\AnimeTracker.Application\bin\Debug\net10.0\AnimeTracker.Application.deps.json
+C:\Users\zelha\Desktop\web\AnimeTracker.Application\bin\Debug\net10.0\AnimeTracker.Application.dll
+C:\Users\zelha\Desktop\web\AnimeTracker.Application\bin\Debug\net10.0\AnimeTracker.Application.pdb
+C:\Users\zelha\Desktop\web\AnimeTracker.Application\bin\Debug\net10.0\AnimeTracker.Domain.dll
+C:\Users\zelha\Desktop\web\AnimeTracker.Application\bin\Debug\net10.0\AnimeTracker.Domain.pdb
+C:\Users\zelha\Desktop\web\AnimeTracker.Application\obj\Debug\net10.0\AnimeTracker.Application.csproj.AssemblyReference.cache
+C:\Users\zelha\Desktop\web\AnimeTracker.Application\obj\Debug\net10.0\AnimeTracker.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zelha\Desktop\web\AnimeTracker.Application\obj\Debug\net10.0\AnimeTracker.Application.AssemblyInfoInputs.cache
+C:\Users\zelha\Desktop\web\AnimeTracker.Application\obj\Debug\net10.0\AnimeTracker.Application.AssemblyInfo.cs
+C:\Users\zelha\Desktop\web\AnimeTracker.Application\obj\Debug\net10.0\AnimeTracker.Application.csproj.CoreCompileInputs.cache
+C:\Users\zelha\Desktop\web\AnimeTracker.Application\obj\Debug\net10.0\AnimeTra.AEA179B5.Up2Date
+C:\Users\zelha\Desktop\web\AnimeTracker.Application\obj\Debug\net10.0\AnimeTracker.Application.dll
+C:\Users\zelha\Desktop\web\AnimeTracker.Application\obj\Debug\net10.0\refint\AnimeTracker.Application.dll
+C:\Users\zelha\Desktop\web\AnimeTracker.Application\obj\Debug\net10.0\AnimeTracker.Application.pdb
+C:\Users\zelha\Desktop\web\AnimeTracker.Application\obj\Debug\net10.0\ref\AnimeTracker.Application.dll

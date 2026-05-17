@@ -1,0 +1,17 @@
+C:\Users\zelha\Desktop\web\AnimeTracker.Persistence\bin\Debug\net10.0\AnimeTracker.Persistence.deps.json
+C:\Users\zelha\Desktop\web\AnimeTracker.Persistence\bin\Debug\net10.0\AnimeTracker.Persistence.dll
+C:\Users\zelha\Desktop\web\AnimeTracker.Persistence\bin\Debug\net10.0\AnimeTracker.Persistence.pdb
+C:\Users\zelha\Desktop\web\AnimeTracker.Persistence\bin\Debug\net10.0\AnimeTracker.Application.dll
+C:\Users\zelha\Desktop\web\AnimeTracker.Persistence\bin\Debug\net10.0\AnimeTracker.Domain.dll
+C:\Users\zelha\Desktop\web\AnimeTracker.Persistence\bin\Debug\net10.0\AnimeTracker.Application.pdb
+C:\Users\zelha\Desktop\web\AnimeTracker.Persistence\bin\Debug\net10.0\AnimeTracker.Domain.pdb
+C:\Users\zelha\Desktop\web\AnimeTracker.Persistence\obj\Debug\net10.0\AnimeTracker.Persistence.csproj.AssemblyReference.cache
+C:\Users\zelha\Desktop\web\AnimeTracker.Persistence\obj\Debug\net10.0\AnimeTracker.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zelha\Desktop\web\AnimeTracker.Persistence\obj\Debug\net10.0\AnimeTracker.Persistence.AssemblyInfoInputs.cache
+C:\Users\zelha\Desktop\web\AnimeTracker.Persistence\obj\Debug\net10.0\AnimeTracker.Persistence.AssemblyInfo.cs
+C:\Users\zelha\Desktop\web\AnimeTracker.Persistence\obj\Debug\net10.0\AnimeTracker.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\zelha\Desktop\web\AnimeTracker.Persistence\obj\Debug\net10.0\AnimeTra.D28226E9.Up2Date
+C:\Users\zelha\Desktop\web\AnimeTracker.Persistence\obj\Debug\net10.0\AnimeTracker.Persistence.dll
+C:\Users\zelha\Desktop\web\AnimeTracker.Persistence\obj\Debug\net10.0\refint\AnimeTracker.Persistence.dll
+C:\Users\zelha\Desktop\web\AnimeTracker.Persistence\obj\Debug\net10.0\AnimeTracker.Persistence.pdb
+C:\Users\zelha\Desktop\web\AnimeTracker.Persistence\obj\Debug\net10.0\ref\AnimeTracker.Persistence.dll

@@ -1,0 +1,462 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\zelha\\Desktop\\web\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\zelha\\Desktop\\web\\AnimeTracker.Web\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AnimeTracker.Web\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\zelha\\Desktop\\web\\AnimeTracker.Web\\Controllers\\AnimeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AnimeTracker.Web\\Controllers\\AnimeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\zelha\\Desktop\\web\\AnimeTracker.Infrastructure\\Services\\JikanService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AnimeTracker.Infrastructure\\Services\\JikanService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\zelha\\Desktop\\web\\AnimeTracker.Application\\Interfaces\\Services\\IJikanService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AnimeTracker.Application\\Interfaces\\Services\\IJikanService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\zelha\\Desktop\\web\\AnimeTracker.Application\\DTOs\\Anime\\JikanAnimeResponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AnimeTracker.Application\\DTOs\\Anime\\JikanAnimeResponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\zelha\\Desktop\\web\\AnimeTracker.Application\\DTOs\\Anime\\AnimeDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AnimeTracker.Application\\DTOs\\Anime\\AnimeDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\zelha\\Desktop\\web\\AnimeTracker.Web\\Views\\Anime\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AnimeTracker.Web\\Views\\Anime\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\zelha\\Desktop\\web\\AnimeTracker.Web\\Views\\Anime\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AnimeTracker.Web\\Views\\Anime\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\zelha\\Desktop\\web\\AnimeTracker.Application\\Services\\AnimeService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AnimeTracker.Application\\Services\\AnimeService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\zelha\\Desktop\\web\\AnimeTracker.Application\\Interfaces\\Services\\IAnimeService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AnimeTracker.Application\\Interfaces\\Services\\IAnimeService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\zelha\\Desktop\\web\\AnimeTracker.Application\\Interfaces\\Repositories\\IGenericRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AnimeTracker.Application\\Interfaces\\Repositories\\IGenericRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\zelha\\Desktop\\web\\AnimeTracker.Application\\Mappings\\GeneralMapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AnimeTracker.Application\\Mappings\\GeneralMapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\zelha\\Desktop\\web\\AnimeTracker.Application\\DTOs\\Anime\\AnimeCreateDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AnimeTracker.Application\\DTOs\\Anime\\AnimeCreateDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\zelha\\Desktop\\web\\AnimeTracker.Persistence\\Contexts\\ApplicationDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AnimeTracker.Persistence\\Contexts\\ApplicationDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\zelha\\Desktop\\web\\AnimeTracker.Domain\\Entities\\WatchList.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AnimeTracker.Domain\\Entities\\WatchList.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\zelha\\Desktop\\web\\AnimeTracker.Domain\\Entities\\Review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AnimeTracker.Domain\\Entities\\Review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\zelha\\Desktop\\web\\AnimeTracker.Domain\\Entities\\AppUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AnimeTracker.Domain\\Entities\\AppUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\zelha\\Desktop\\web\\AnimeTracker.Persistence\\Repositories\\UnitOfWork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AnimeTracker.Persistence\\Repositories\\UnitOfWork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\zelha\\Desktop\\web\\AnimeTracker.Persistence\\Repositories\\GenericRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AnimeTracker.Persistence\\Repositories\\GenericRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\zelha\\Desktop\\web\\AnimeTracker.Application\\Interfaces\\IUnitOfWork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AnimeTracker.Application\\Interfaces\\IUnitOfWork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\zelha\\Desktop\\web\\AnimeTracker.Domain\\Common\\BaseEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AnimeTracker.Domain\\Common\\BaseEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\zelha\\Desktop\\web\\AnimeTracker.Web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AnimeTracker.Web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\zelha\\Desktop\\web\\AnimeTracker.Domain\\Entities\\Anime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AnimeTracker.Domain\\Entities\\Anime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\zelha\\Desktop\\web\\AnimeTracker.Domain\\Entities\\AnimeGenre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AnimeTracker.Domain\\Entities\\AnimeGenre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\zelha\\Desktop\\web\\AnimeTracker.Domain\\Entities\\Genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AnimeTracker.Domain\\Entities\\Genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\zelha\\Desktop\\web\\AnimeTracker.Domain\\Enums\\WatchStatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AnimeTracker.Domain\\Enums\\WatchStatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JikanService.cs",
+              "DocumentMoniker": "C:\\Users\\zelha\\Desktop\\web\\AnimeTracker.Infrastructure\\Services\\JikanService.cs",
+              "RelativeDocumentMoniker": "AnimeTracker.Infrastructure\\Services\\JikanService.cs",
+              "ToolTip": "C:\\Users\\zelha\\Desktop\\web\\AnimeTracker.Infrastructure\\Services\\JikanService.cs",
+              "RelativeToolTip": "AnimeTracker.Infrastructure\\Services\\JikanService.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwDEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T12:28:56.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IJikanService.cs",
+              "DocumentMoniker": "C:\\Users\\zelha\\Desktop\\web\\AnimeTracker.Application\\Interfaces\\Services\\IJikanService.cs",
+              "RelativeDocumentMoniker": "AnimeTracker.Application\\Interfaces\\Services\\IJikanService.cs",
+              "ToolTip": "C:\\Users\\zelha\\Desktop\\web\\AnimeTracker.Application\\Interfaces\\Services\\IJikanService.cs",
+              "RelativeToolTip": "AnimeTracker.Application\\Interfaces\\Services\\IJikanService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T12:27:28.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JikanAnimeResponse.cs",
+              "DocumentMoniker": "C:\\Users\\zelha\\Desktop\\web\\AnimeTracker.Application\\DTOs\\Anime\\JikanAnimeResponse.cs",
+              "RelativeDocumentMoniker": "AnimeTracker.Application\\DTOs\\Anime\\JikanAnimeResponse.cs",
+              "ToolTip": "C:\\Users\\zelha\\Desktop\\web\\AnimeTracker.Application\\DTOs\\Anime\\JikanAnimeResponse.cs",
+              "RelativeToolTip": "AnimeTracker.Application\\DTOs\\Anime\\JikanAnimeResponse.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAQwBwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T12:26:55.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\zelha\\Desktop\\web\\AnimeTracker.Web\\Views\\Anime\\Create.cshtml",
+              "RelativeDocumentMoniker": "AnimeTracker.Web\\Views\\Anime\\Create.cshtml",
+              "ToolTip": "C:\\Users\\zelha\\Desktop\\web\\AnimeTracker.Web\\Views\\Anime\\Create.cshtml",
+              "RelativeToolTip": "AnimeTracker.Web\\Views\\Anime\\Create.cshtml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-12T12:12:52.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\zelha\\Desktop\\web\\AnimeTracker.Web\\Views\\Anime\\Index.cshtml",
+              "RelativeDocumentMoniker": "AnimeTracker.Web\\Views\\Anime\\Index.cshtml",
+              "ToolTip": "C:\\Users\\zelha\\Desktop\\web\\AnimeTracker.Web\\Views\\Anime\\Index.cshtml",
+              "RelativeToolTip": "AnimeTracker.Web\\Views\\Anime\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAswCAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-12T12:12:42.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AnimeController.cs",
+              "DocumentMoniker": "C:\\Users\\zelha\\Desktop\\web\\AnimeTracker.Web\\Controllers\\AnimeController.cs",
+              "RelativeDocumentMoniker": "AnimeTracker.Web\\Controllers\\AnimeController.cs",
+              "ToolTip": "C:\\Users\\zelha\\Desktop\\web\\AnimeTracker.Web\\Controllers\\AnimeController.cs",
+              "RelativeToolTip": "AnimeTracker.Web\\Controllers\\AnimeController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAQwDwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T12:12:17.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AnimeService.cs",
+              "DocumentMoniker": "C:\\Users\\zelha\\Desktop\\web\\AnimeTracker.Application\\Services\\AnimeService.cs",
+              "RelativeDocumentMoniker": "AnimeTracker.Application\\Services\\AnimeService.cs",
+              "ToolTip": "C:\\Users\\zelha\\Desktop\\web\\AnimeTracker.Application\\Services\\AnimeService.cs",
+              "RelativeToolTip": "AnimeTracker.Application\\Services\\AnimeService.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwC8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T11:33:03.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\zelha\\Desktop\\web\\AnimeTracker.Web\\Program.cs",
+              "RelativeDocumentMoniker": "AnimeTracker.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\zelha\\Desktop\\web\\AnimeTracker.Web\\Program.cs",
+              "RelativeToolTip": "AnimeTracker.Web\\Program.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAQwEYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T11:10:51.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IAnimeService.cs",
+              "DocumentMoniker": "C:\\Users\\zelha\\Desktop\\web\\AnimeTracker.Application\\Interfaces\\Services\\IAnimeService.cs",
+              "RelativeDocumentMoniker": "AnimeTracker.Application\\Interfaces\\Services\\IAnimeService.cs",
+              "ToolTip": "C:\\Users\\zelha\\Desktop\\web\\AnimeTracker.Application\\Interfaces\\Services\\IAnimeService.cs",
+              "RelativeToolTip": "AnimeTracker.Application\\Interfaces\\Services\\IAnimeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T11:32:35.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GeneralMapping.cs",
+              "DocumentMoniker": "C:\\Users\\zelha\\Desktop\\web\\AnimeTracker.Application\\Mappings\\GeneralMapping.cs",
+              "RelativeDocumentMoniker": "AnimeTracker.Application\\Mappings\\GeneralMapping.cs",
+              "ToolTip": "C:\\Users\\zelha\\Desktop\\web\\AnimeTracker.Application\\Mappings\\GeneralMapping.cs",
+              "RelativeToolTip": "AnimeTracker.Application\\Mappings\\GeneralMapping.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T11:31:47.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AnimeDto.cs",
+              "DocumentMoniker": "C:\\Users\\zelha\\Desktop\\web\\AnimeTracker.Application\\DTOs\\Anime\\AnimeDto.cs",
+              "RelativeDocumentMoniker": "AnimeTracker.Application\\DTOs\\Anime\\AnimeDto.cs",
+              "ToolTip": "C:\\Users\\zelha\\Desktop\\web\\AnimeTracker.Application\\DTOs\\Anime\\AnimeDto.cs",
+              "RelativeToolTip": "AnimeTracker.Application\\DTOs\\Anime\\AnimeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T11:31:10.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AnimeCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\zelha\\Desktop\\web\\AnimeTracker.Application\\DTOs\\Anime\\AnimeCreateDto.cs",
+              "RelativeDocumentMoniker": "AnimeTracker.Application\\DTOs\\Anime\\AnimeCreateDto.cs",
+              "ToolTip": "C:\\Users\\zelha\\Desktop\\web\\AnimeTracker.Application\\DTOs\\Anime\\AnimeCreateDto.cs",
+              "RelativeToolTip": "AnimeTracker.Application\\DTOs\\Anime\\AnimeCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T11:31:20.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\zelha\\Desktop\\web\\AnimeTracker.Domain\\Entities\\AppUser.cs",
+              "RelativeDocumentMoniker": "AnimeTracker.Domain\\Entities\\AppUser.cs",
+              "ToolTip": "C:\\Users\\zelha\\Desktop\\web\\AnimeTracker.Domain\\Entities\\AppUser.cs",
+              "RelativeToolTip": "AnimeTracker.Domain\\Entities\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T11:23:44.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\zelha\\Desktop\\web\\AnimeTracker.Persistence\\Repositories\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "AnimeTracker.Persistence\\Repositories\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\zelha\\Desktop\\web\\AnimeTracker.Persistence\\Repositories\\UnitOfWork.cs",
+              "RelativeToolTip": "AnimeTracker.Persistence\\Repositories\\UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T11:20:25.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\zelha\\Desktop\\web\\AnimeTracker.Persistence\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "AnimeTracker.Persistence\\Repositories\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\zelha\\Desktop\\web\\AnimeTracker.Persistence\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "AnimeTracker.Persistence\\Repositories\\GenericRepository.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAQwB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T11:20:17.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\zelha\\Desktop\\web\\AnimeTracker.Application\\Interfaces\\Repositories\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "AnimeTracker.Application\\Interfaces\\Repositories\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\zelha\\Desktop\\web\\AnimeTracker.Application\\Interfaces\\Repositories\\IGenericRepository.cs",
+              "RelativeToolTip": "AnimeTracker.Application\\Interfaces\\Repositories\\IGenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T11:19:33.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\zelha\\Desktop\\web\\AnimeTracker.Application\\Interfaces\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "AnimeTracker.Application\\Interfaces\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\zelha\\Desktop\\web\\AnimeTracker.Application\\Interfaces\\IUnitOfWork.cs",
+              "RelativeToolTip": "AnimeTracker.Application\\Interfaces\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T11:19:58.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Review.cs",
+              "DocumentMoniker": "C:\\Users\\zelha\\Desktop\\web\\AnimeTracker.Domain\\Entities\\Review.cs",
+              "RelativeDocumentMoniker": "AnimeTracker.Domain\\Entities\\Review.cs",
+              "ToolTip": "C:\\Users\\zelha\\Desktop\\web\\AnimeTracker.Domain\\Entities\\Review.cs",
+              "RelativeToolTip": "AnimeTracker.Domain\\Entities\\Review.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T11:03:54.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "WatchList.cs",
+              "DocumentMoniker": "C:\\Users\\zelha\\Desktop\\web\\AnimeTracker.Domain\\Entities\\WatchList.cs",
+              "RelativeDocumentMoniker": "AnimeTracker.Domain\\Entities\\WatchList.cs",
+              "ToolTip": "C:\\Users\\zelha\\Desktop\\web\\AnimeTracker.Domain\\Entities\\WatchList.cs",
+              "RelativeToolTip": "AnimeTracker.Domain\\Entities\\WatchList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T11:04:01.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\zelha\\Desktop\\web\\AnimeTracker.Persistence\\Contexts\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "AnimeTracker.Persistence\\Contexts\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\zelha\\Desktop\\web\\AnimeTracker.Persistence\\Contexts\\ApplicationDbContext.cs",
+              "RelativeToolTip": "AnimeTracker.Persistence\\Contexts\\ApplicationDbContext.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwD0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T11:09:15.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\zelha\\Desktop\\web\\AnimeTracker.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "AnimeTracker.Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\zelha\\Desktop\\web\\AnimeTracker.Web\\appsettings.json",
+              "RelativeToolTip": "AnimeTracker.Web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-12T11:10:23.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AnimeGenre.cs",
+              "DocumentMoniker": "C:\\Users\\zelha\\Desktop\\web\\AnimeTracker.Domain\\Entities\\AnimeGenre.cs",
+              "RelativeDocumentMoniker": "AnimeTracker.Domain\\Entities\\AnimeGenre.cs",
+              "ToolTip": "C:\\Users\\zelha\\Desktop\\web\\AnimeTracker.Domain\\Entities\\AnimeGenre.cs",
+              "RelativeToolTip": "AnimeTracker.Domain\\Entities\\AnimeGenre.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T11:03:44.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "C:\\Users\\zelha\\Desktop\\web\\AnimeTracker.Domain\\Entities\\Genre.cs",
+              "RelativeDocumentMoniker": "AnimeTracker.Domain\\Entities\\Genre.cs",
+              "ToolTip": "C:\\Users\\zelha\\Desktop\\web\\AnimeTracker.Domain\\Entities\\Genre.cs",
+              "RelativeToolTip": "AnimeTracker.Domain\\Entities\\Genre.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T11:03:31.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Anime.cs",
+              "DocumentMoniker": "C:\\Users\\zelha\\Desktop\\web\\AnimeTracker.Domain\\Entities\\Anime.cs",
+              "RelativeDocumentMoniker": "AnimeTracker.Domain\\Entities\\Anime.cs",
+              "ToolTip": "C:\\Users\\zelha\\Desktop\\web\\AnimeTracker.Domain\\Entities\\Anime.cs",
+              "RelativeToolTip": "AnimeTracker.Domain\\Entities\\Anime.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T11:00:41.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\zelha\\Desktop\\web\\AnimeTracker.Domain\\Common\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "AnimeTracker.Domain\\Common\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\zelha\\Desktop\\web\\AnimeTracker.Domain\\Common\\BaseEntity.cs",
+              "RelativeToolTip": "AnimeTracker.Domain\\Common\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T10:59:31.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "WatchStatus.cs",
+              "DocumentMoniker": "C:\\Users\\zelha\\Desktop\\web\\AnimeTracker.Domain\\Enums\\WatchStatus.cs",
+              "RelativeDocumentMoniker": "AnimeTracker.Domain\\Enums\\WatchStatus.cs",
+              "ToolTip": "C:\\Users\\zelha\\Desktop\\web\\AnimeTracker.Domain\\Enums\\WatchStatus.cs",
+              "RelativeToolTip": "AnimeTracker.Domain\\Enums\\WatchStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T10:59:49.097Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

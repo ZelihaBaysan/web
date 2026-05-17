@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="AnimeTracker.Application/AnimeTracker.Application.csproj" />
+  <Project Path="AnimeTracker.Domain/AnimeTracker.Domain.csproj" />
+  <Project Path="AnimeTracker.Infrastructure/AnimeTracker.Infrastructure.csproj" />
+  <Project Path="AnimeTracker.Persistence/AnimeTracker.Persistence.csproj" />
+  <Project Path="AnimeTracker.Web/AnimeTracker.Web.csproj" />
+</Solution>
