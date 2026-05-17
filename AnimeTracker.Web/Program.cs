@@ -12,6 +12,9 @@ using AnimeTracker.Persistence.Repositories;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Serilog;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.IdentityModel.Tokens;
+using System.Text;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -33,8 +36,6 @@ builder.Services.AddControllersWithViews();
 builder.Services.AddFluentValidationAutoValidation()
                 .AddFluentValidationClientsideAdapters();
 builder.Services.AddValidatorsFromAssembly(typeof(AnimeTracker.Application.Validations.AnimeCreateDtoValidator).Assembly);
-
-
 
 // 2. DbContext Ayarı
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
@@ -58,6 +59,28 @@ builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
 
 // 5. Uygulama Servisleri (Business Logic)
 builder.Services.AddScoped<IAnimeService, AnimeService>();
+builder.Services.AddScoped<IAuthService, AuthService>(); // YENİ EKLENEN
+
+// --- YENİ EKLENEN: JWT Authentication Ayarları ---
+builder.Services.AddAuthentication(options =>
+{
+    options.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
+    options.DefaultChallengeScheme = JwtBearerDefaults.AuthenticationScheme;
+})
+.AddJwtBearer(options =>
+{
+    options.TokenValidationParameters = new TokenValidationParameters
+    {
+        ValidateIssuer = true,
+        ValidateAudience = true,
+        ValidateLifetime = true,
+        ValidateIssuerSigningKey = true,
+        ValidIssuer = builder.Configuration["Jwt:Issuer"],
+        ValidAudience = builder.Configuration["Jwt:Audience"],
+        IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(builder.Configuration["Jwt:Key"]!))
+    };
+});
+// -------------------------------------------------
 
 // 6. Jikan API Servisi Kaydı
 builder.Services.AddHttpClient<IJikanService, JikanService>();
